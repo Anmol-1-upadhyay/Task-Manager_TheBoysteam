@@ -118,3 +118,5 @@ TaskWave is a web application designed to streamline team task management. Built
 - Make sure to replace the placeholders in `.env` files with your actual values.
 - Update the image paths to reflect the correct location if needed.
 
+Video Link:
+https://drive.google.com/file/d/1RwuWqFjTNnwCF-nqGzppg1xfeNhAYXxE/view?usp=drive_link
